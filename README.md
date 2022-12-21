@@ -5,3 +5,9 @@ Collection of some of the python projects that I have created
 Created a very secure way to check to see if the passwords you use have ever been hacked. This tool can be used to check whether some passwords need to be updated or not.
 
 [**View Python File**](https://github.com/Sayed-Husain/python-projects/blob/main/passwordChecker.py)
+
+
+## HackerNews Scraper
+Scrape data from HackerNews and present only the most important articles to read on a given day.
+
+[**View Python File**](https://github.com/Sayed-Husain/python-projects/blob/main/HackerNewsScraper.py)
